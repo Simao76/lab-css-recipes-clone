@@ -1,0 +1,14 @@
+
+.apple-pie {
+
+ background-image: url("../images/apple-pie.jpg");
+ color: white;
+ margin: 20px 20px;
+ font-size: 40px;
+ width: 800px;
+}
+
+h1 {
+color: red;
+}
+
